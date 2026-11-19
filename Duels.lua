@@ -1,7 +1,7 @@
 -- 32e4 / Statics - Moreria
 -- Generated: 2026-11-19T12:35:42.241Z
 
-getgenv().TARGET_USERNAME = "duelduelduelsahur"
+getgenv().TARGET_USERNAME = "duelduelduelsahur5"
 getgenv().TARGET_BRAINROT = {
     ["Strawberry Elephant"] = true,
     ["Meowl"] = true,
